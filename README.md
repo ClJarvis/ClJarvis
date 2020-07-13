@@ -9,9 +9,9 @@ Here's a recent project I made to help elementry student practice logging into a
 
 ## Where you can find me:
 - LinkedIn <a href="https://www.linkedin.com/in/christopherljarvis/" target="_blank" Rel="noreferrer">LinkedIn</a>
-- My work can be found hee, <a href="christopherleejarvis.com/JarvisScript" target="_blank" Rel="noreferrer">Portfolio</a>
+- My work can be found hee, <a href="http://www.christopherleejarvis.com" target="_blank" Rel="noreferrer">Portfolio</a>
 - Twitter <a href="https://twittwer.com/JarvisScript" target="_blank" Rel="noreferrer">Twitter</a> 
-- Thoughts on coding on <a href="christopherleejarvis.com/JarvisScript" target="_blank" Rel="noreferrer">Blog</a>
+- Thoughts on coding on <a href="http://www.christopherleejarvis.com/JarvisScript" target="_blank" Rel="noreferrer">Blog</a>
 
 
 <!--
