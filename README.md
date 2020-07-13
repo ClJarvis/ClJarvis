@@ -9,7 +9,7 @@ Here's a recent project I made to help elementry student practice logging into a
 
 ## Where you can find me:
 - LinkedIn <a href="https://www.linkedin.com/in/christopherljarvis/">LinkedIn</a>
-- Short thoughts<a href="https://twittwer.com/JarvisScript">Twitter</a> 
+- Twitter<a href="https://twittwer.com/JarvisScript">Twitter</a> 
 - Thoughts on coding on <a href="christopherleejarvis.com/JarvisScript">Blog</a>
 
 
