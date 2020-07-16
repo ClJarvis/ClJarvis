@@ -13,8 +13,10 @@ Here's a recent project I made to help elementry student practice logging into a
 - JarvisScript on <a href="https://twitter.com/JarvisScript" target="blank" Rel="noreferrer">Twitter</a> 
 - Thoughts on coding on <a href="http://www.christopherleejarvis.com/JarvisScript" target="blank" Rel="noreferrer">Blog</a>
 
-- Pronouns: He\Him
-- How to reach me: @JarvisScript on Twitteror LinkedIn
+ Pronouns: He\Him \
+ How to reach me: @JarvisScript on Twitteror LinkedIn
+
+:octocat: 
 
 <!--
 **ClJarvis/ClJarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
