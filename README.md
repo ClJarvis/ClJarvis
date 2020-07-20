@@ -1,4 +1,4 @@
-### Hi there I'm Chris Jarvis👋
+### Hi there I'm Chris Jarvis
 
 I'm a software developer and puzzle solver, and a Full Stack storyteller,  A love of creative endeavors & solving puzzles led me to delve into software development.  My calm, organized demeanor and my tenacious determination in solving problems will be a unique asset to a development team.
 
@@ -13,8 +13,11 @@ Here's a recent project I made to help elementry student practice logging into a
 - JarvisScript on <a href="https://twitter.com/JarvisScript" target="blank" Rel="noreferrer">Twitter</a> 
 - Thoughts on coding on <a href="http://www.christopherleejarvis.com/JarvisScript" target="blank" Rel="noreferrer">Blog</a>
 
+
  Pronouns: He\Him \
- How to reach me: @JarvisScript on Twitteror LinkedIn
+ How to reach me: @JarvisScript on Twitter or on LinkedIn
+ 
+-$JarvisScript git push
 
 :octocat: 
 
