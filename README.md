@@ -1,9 +1,9 @@
-### Hi there I'm Chris Jarvis
+### Hi there, I'm Chris Jarvis
 
 I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love of creative endeavors & solving puzzles led me to delve into software development.  My calm, organized demeanor and my tenacious determination in solving problems will be a unique asset to a development team.
 
  <img src="http://christopherleejarvis.com/JarvisScript/wp-content/uploads/2019/09/book_nook_quote.jpg">
-Here's a recent project I made to help elementry student practice logging into an onlie application. Once they have logged in thay can get a inspiational quote about the important of reading. I made a flask version then remade it with vanilla javaScript.
+ Here's a recent project I made to help elementry student practice logging into an onlie application. Once they have logged in thay can get a inspiational quote about the important of reading. I made a flask version then remade it with vanilla javaScript.
 
 
 
