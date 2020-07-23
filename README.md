@@ -6,7 +6,6 @@ I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love o
  Here's a recent project I made to help elementry student practice logging into an onlie application. Once they have logged in thay can get a inspiational quote about the important of reading. I made a flask version then remade it with vanilla javaScript.
 
 
-
 ## How to contact me:
 - LinkedIn <a href="https://www.linkedin.com/in/christopherljarvis/" target="_blank" Rel="noreferrer">LinkedIn</a>
 - My work can be found here, <a href="http://www.christopherleejarvis.com" target="_blank" Rel="noreferrer">Portfolio</a>
@@ -34,4 +33,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+## Hear Me
+An interview from bootcamp.
+<a href="https://soundcloud.com/nashville-software-school/chris-jarvis">Listen to my graduation interview</a>
 -->
