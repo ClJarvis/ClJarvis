@@ -3,14 +3,14 @@
 I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love of creative endeavors & solving puzzles led me to delve into software development.  My calm, organized demeanor and my tenacious determination in solving problems will be a unique asset to a development team.
 
  <img src="http://christopherleejarvis.com/JarvisScript/wp-content/uploads/2019/09/book_nook_quote.jpg">
- Here's a recent project I made to help elementry student practice logging into an onlie application. Once they have logged in thay can get a inspiational quote about the important of reading. I made a flask version then remade it with vanilla javaScript.
+ Here's a recent project I made to help elementry school students practice logging into an onlie application. Once they have logged in thay can get a inspiational quote about the important of reading. I made a flask version then remade it with vanilla javaScript.
 
 
 ## How to contact me:
 - LinkedIn <a href="https://www.linkedin.com/in/christopherljarvis/" target="_blank" Rel="noreferrer">LinkedIn</a>
 - My work can be found here, <a href="http://www.christopherleejarvis.com" target="_blank" Rel="noreferrer">Portfolio</a>
 - JarvisScript on <a href="https://twitter.com/JarvisScript" target="blank" Rel="noreferrer">Twitter</a> 
-- Thoughts on coding on <a href="http://www.christopherleejarvis.com/JarvisScript" target="blank" Rel="noreferrer">Blog</a>
+- JarvisScript <a href="http://www.christopherleejarvis.com/JarvisScript" target="blank" Rel="noreferrer">Blog</a>
 
 
  Pronouns: He\Him \
