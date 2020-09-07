@@ -7,10 +7,10 @@ I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love o
 
 
 ## How to contact me:
-- My work can be found here, <a href="http://www.christopherleejarvis.com" target="_blank" Rel="noreferrer">Portfolio</a>
+- My work can be found here, <a href="https://www.christopherleejarvis.com" target="_blank" Rel="noreferrer">Portfolio</a>
 - LinkedIn <a href="https://www.linkedin.com/in/christopherljarvis/" target="_blank" Rel="noreferrer">LinkedIn</a>
 - Twitter <a href="https://twitter.com/JarvisScript" target="blank" Rel="noreferrer">JarvisScript</a> 
-- Blog <a href="http://www.christopherleejarvis.com/JarvisScript" target="blank" Rel="noreferrer">JarvisScript</a>
+- Blog <a href="https://www.christopherleejarvis.com/JarvisScript" target="blank" Rel="noreferrer">JarvisScript</a>
 - DEV <a href="https://dev.to/jarvisscript" Target="blamk" rel="noreferrer">JarvisScript</a>
 
 
