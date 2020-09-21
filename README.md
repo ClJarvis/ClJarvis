@@ -4,6 +4,7 @@ I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love o
 
  <img src="http://christopherleejarvis.com/JarvisScript/wp-content/uploads/2019/09/book_nook_quote.jpg">
  Here's a recent project I made to help elementry school students practice logging into an onlie application. Once they have logged in thay can get a inspiational quote about the important of reading. I made a flask version then remade it with vanilla javaScript.
+ 
 
 
 ## How to contact me:
@@ -12,6 +13,9 @@ I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love o
 - Twitter <a href="https://twitter.com/JarvisScript" target="blank" Rel="noreferrer">JarvisScript</a> 
 - Blog <a href="https://www.christopherleejarvis.com/JarvisScript" target="blank" Rel="noreferrer">JarvisScript</a>
 - DEV <a href="https://dev.to/jarvisscript" Target="blamk" rel="noreferrer">JarvisScript</a>
+
+
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CLJarvis&show_icons=true&count_private=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
  Pronouns: He\Him \
