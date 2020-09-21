@@ -15,7 +15,7 @@ I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love o
 - DEV <a href="https://dev.to/jarvisscript" Target="blamk" rel="noreferrer">JarvisScript</a>
 
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CLJarvis&show_icons=true&count_private=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLJarvis&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CLJarvis&show_icons=true&count_private=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLJarvis&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
  Pronouns: He\Him \
