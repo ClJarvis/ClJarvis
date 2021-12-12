@@ -4,7 +4,7 @@ I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love o
 
 ## Work Samples
 
-Some art work I made withj CSS and HTML. Read about it on my <a href="https://dev.to/jarvisscript" Target="blamk" rel="noreferrer"> DEV Blog</a>
+Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and movie character. Read about it on my <a href="https://dev.to/jarvisscript" Target="blamk" rel="noreferrer"> DEV Blog</a>
 
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o324motpbz7dpsdyfym9.jpg" alt="five crewmeembers from amoung us game">
 
