@@ -2,9 +2,18 @@
 
 I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love of creative endeavors & solving puzzles led me to delve into software development.  My calm, organized demeanor and my tenacious determination in solving problems will be a unique asset to a development team.
 
- <img src="http://christopherleejarvis.com/JarvisScript/wp-content/uploads/2019/09/book_nook_quote.jpg">
- Here's a recent project I made to help elementry school students practice logging into an onlie application. Once they have logged in thay can get a inspiational quote about the important of reading. I made a flask version then remade it with vanilla javaScript.
+## Work Samples
+
+Some art work I made withj CSS and HTML. Read about it on my <a href="https://dev.to/jarvisscript" Target="blamk" rel="noreferrer"> DEV Blog</a>
+
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o324motpbz7dpsdyfym9.jpg" alt="five crewmeembers from amoung us game">
+
+
+ Here's a recent project I made to help elementry school students practice logging into an online application. Once they have logged in thay can get a inspiational quote about the important of reading. I made a flask version then remade it with vanilla javaScript.
  
+
+ <img src="http://christopherleejarvis.com/JarvisScript/wp-content/uploads/2019/09/book_nook_quote.jpg">
+
 
 
 ## How to contact me:
