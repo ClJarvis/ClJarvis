@@ -24,7 +24,9 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
 - DEV <a href="https://dev.to/jarvisscript" Target="blamk" rel="noreferrer">JarvisScript</a>
 
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CLJarvis&show_icons=true&count_private=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLJarvis&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CLJarvis&show_icons=true&count_private=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLJarvis&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
  Pronouns: He\Him \
@@ -32,7 +34,6 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
  
 -$JarvisScript git push
 
-:octocat: 
 
 <!--
 **ClJarvis/ClJarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
