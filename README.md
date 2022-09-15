@@ -32,9 +32,7 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
  Pronouns: He\Him 
  
  
-## Hear Me
-An interview from bootcamp.
-<a href="https://soundcloud.com/nashville-software-school/chris-jarvis">Listen to my graduation interview</a>
+
  
 -$JarvisScript git push
 
@@ -53,5 +51,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+## Hear Me
+An interview from bootcamp.
+<a href="https://soundcloud.com/nashville-software-school/chris-jarvis">Listen to my graduation interview</a>
 
 -->
