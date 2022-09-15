@@ -29,8 +29,12 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLJarvis&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
- Pronouns: He\Him \
- How to reach me: @JarvisScript on Twitter or on LinkedIn
+ Pronouns: He\Him 
+ 
+ 
+## Hear Me
+An interview from bootcamp.
+<a href="https://soundcloud.com/nashville-software-school/chris-jarvis">Listen to my graduation interview</a>
  
 -$JarvisScript git push
 
@@ -50,7 +54,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-## Hear Me
-An interview from bootcamp.
-<a href="https://soundcloud.com/nashville-software-school/chris-jarvis">Listen to my graduation interview</a>
 -->
