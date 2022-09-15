@@ -28,6 +28,27 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLJarvis&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Community Engagement & Volunteer Work
+
+### DEV
+- Trusted User (moderator)
+- Blog writer
+
+### Virtual Coffee
+- Member 
+
+### Nashville Software School Alumni Hackathon Committee 2017
+- Logistics
+- Planning
+- Alumni Member
+
+### Paper Reviewer
+- PyGotham 2018
+- DjangoCon US  2017, 2018
+
+
+
+
 
  Pronouns: He\Him 
  
