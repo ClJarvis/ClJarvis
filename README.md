@@ -4,12 +4,15 @@ I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love o
 
 ## Work Samples
 
+### CSS Art
+
 Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and movie character. Read about it on my <a href="https://dev.to/jarvisscript" Target="blamk" rel="noreferrer"> DEV Blog</a>
 
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o324motpbz7dpsdyfym9.jpg" alt="five crewmeembers from amoung us game">
 
+### EdTech
 
- Here's a recent project I made to help elementry school students practice logging into an online application. Once they have logged in thay can get a inspiational quote about the important of reading. I made a flask version then remade it with vanilla javaScript.
+ Here's a recent project I made to help elementry school students practice logging into an online application. Once they have logged in thay can get a inspiational quote about the important of reading. I made a Python and flask version then remade it with vanilla JavaScript.
  
 
  <img src="http://christopherleejarvis.com/JarvisScript/wp-content/uploads/2019/09/book_nook_quote.jpg">
@@ -46,6 +49,8 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
 - PyGotham 2018
 - DjangoCon US  2017, 2018
 
+### HacktoberFest 
+- Contributor 2020, 2021, 2022
 
 
 
