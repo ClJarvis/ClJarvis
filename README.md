@@ -59,9 +59,9 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
  
  
 
- 
--$JarvisScript git push
-
+ ```
+$JarvisScript git push
+```
 
 <!--
 **ClJarvis/ClJarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
