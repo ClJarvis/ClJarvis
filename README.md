@@ -2,6 +2,8 @@
 
 I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love of creative endeavors & solving puzzles led me to delve into software development.  My calm, organized demeanor and my tenacious determination in solving problems will be a unique asset to a development team.
 
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/20m07vdw87mvfsonfa1c.jpg" alt="text of contact information.">
+
 ## Work Samples
 
 ### CSS Art
