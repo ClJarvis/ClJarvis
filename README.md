@@ -24,7 +24,7 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
 ## How to contact me:
 - My work can be found here, <a href="https://www.christopherleejarvis.com" target="_blank" Rel="noreferrer">Portfolio</a>
 - LinkedIn <a href="https://www.linkedin.com/in/christopherljarvis/" target="_blank" Rel="noreferrer">LinkedIn</a>
-- Mastodon <a rel="me nofollow" href="https://hachyderm.io/@jarvisscript" >Mastodon</a>
+- Mastodon <a rel="me nofollow" href="https://hachyderm.io/@jarvisscript" target="blank" Rel="nofeferrer">Mastodon</a>
 - Twitter <a href="https://twitter.com/JarvisScript" target="blank" Rel="noreferrer">JarvisScript</a> 
 - Polywork <a href="https://www.polywork.com/chrisjarvis" rel="noreferrer">Polywork</a>
 - Blog <a href="https://www.christopherleejarvis.com/JarvisScript" target="blank" Rel="noreferrer">JarvisScript</a>
