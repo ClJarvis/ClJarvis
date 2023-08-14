@@ -17,7 +17,7 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
  Here's a recent project I made to help elementry school students practice logging into an online application. Once they have logged in thay can get a inspiational quote about the important of reading. I made a Python and flask version then remade it with vanilla JavaScript.
  
 
- <img src="http://christopherleejarvis.com/JarvisScript/wp-content/uploads/2019/09/book_nook_quote.jpg">
+ <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hmyjkkzurg8qezre7c8l.jpg">
 
 
 
@@ -26,7 +26,7 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
 - LinkedIn <a href="https://www.linkedin.com/in/christopherljarvis/" target="_blank" Rel="noreferrer">LinkedIn</a>
 - Mastodon <a rel="me nofollow" href="https://hachyderm.io/@jarvisscript" target="blank" Rel="nofeferrer">Mastodon</a> <!--- Twitter <a href="https://twi tter.com/JarvisScript" target="blank" Rel="noreferrer">JarvisScript</a --> 
 - Polywork <a href="https://www.polywork.com/chrisjarvis" rel="noreferrer">Polywork</a>
-- Blog <a href="https://www.christopherleejarvis.com/JarvisScript" target="blank" Rel="noreferrer">JarvisScript</a>
+- Blog is moving <a href="https://www.christopherleejarvis.com/JarvisScript" target="blank" Rel="noreferrer">JarvisScript</a>
 - DEV <a href="https://dev.to/jarvisscript" Target="blamk" rel="noreferrer">JarvisScript</a>
 
 
