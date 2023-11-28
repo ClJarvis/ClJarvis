@@ -54,7 +54,7 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
 - DjangoCon US  2017, 2018
 
 ### HacktoberFest 
-- Contributor 2020, 2021, 2022
+- Contributor 2020, 2021, 2022, 2023
 - Maintainer 2022
 
 
