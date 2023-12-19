@@ -39,6 +39,7 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
 ### DEV
 - Trusted User (moderator)
 - Blog writer
+- Top 7 Featured DEV Posts of the Week 12/23
 
 ### Virtual Coffee
 - Member
