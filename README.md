@@ -38,8 +38,8 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
 ### DEV
 - Trusted User (moderator)
 - Blog writer
-- Top 7 Featured DEV Posts of the Week 12/23
-- Top 7 Featured DEV Posts of the Week 11/24
+- Top 7 Featured DEV Posts of the Week 12/2023
+- Top 7 Featured DEV Posts of the Week 11/2024
 
 ### Virtual Coffee
 - Member
