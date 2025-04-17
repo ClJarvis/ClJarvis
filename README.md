@@ -40,6 +40,7 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
 - Trusted User (moderator)
 - Blog writer
 - Top 7 Featured DEV Posts of the Week 12/23
+- Top 7 Featured DEV Posts of the Week 11/24
 
 ### Virtual Coffee
 - Member
@@ -55,7 +56,7 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
 - DjangoCon US  2017, 2018
 
 ### HacktoberFest 
-- Contributor 2020, 2021, 2022, 2023
+- Contributor 2020, 2021, 2022, 2023, 2024
 - Maintainer 2022
 
 
