@@ -40,6 +40,8 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
 - Blog writer
 - Top 7 Featured DEV Posts of the Week 12/2023
 - Top 7 Featured DEV Posts of the Week 11/2024
+- Top CSS author of of thw week 6/2025.
+- Top JavaScript author of the week 6/2025.
 
 ### Virtual Coffee
 - Member
