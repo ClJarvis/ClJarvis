@@ -38,6 +38,7 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
 ### DEV
 - Trusted User (moderator)
 - Blog Writer
+- Winner June Frontend Challenge - CSS Art 7/2025
 - Top CSS author of of the week 6/2025
 - Top JavaScript author of the week 6/2025
 - Top 7 Featured DEV Posts of the Week 11/2024
