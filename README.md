@@ -1,6 +1,6 @@
 ### Hello there, I'm Chris Jarvis
 
-I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love of creative endeavors & solving puzzles led me to delve into software development.  My calm, organized demeanor and my tenacious determination in solving problems will be a unique asset to a development team.
+I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love of creative endeavors & solving puzzles led me to delve into software development.  My organized demeanor and my tenacious determination in solving problems is a unique asset to a development team.
 
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/20m07vdw87mvfsonfa1c.jpg" alt="text of contact information.">
 
@@ -58,7 +58,7 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
 - DjangoCon US  2017, 2018
 
 ### HacktoberFest 
-- Contributor 2020, 2021, 2022, 2023, 2024
+- Contributor 2020, 2021, 2022, 2023, 2024, 2025
 - Maintainer 2022
 
 
