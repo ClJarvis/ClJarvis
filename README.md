@@ -29,9 +29,13 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters fea
 - DEV <a href="https://dev.to/jarvisscript" Target="blamk" rel="noreferrer">JarvisScript</a>
 
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CLJarvis&show_icons=true&count_private=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) 
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLJarvis&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Charts by @Anurag
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ClJarvis&rank_icon=github&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=ClJarvis&rank_icon=github&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ClJarvis&layout=compact&langs_count=6&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=ClJarvis&layout=compact&langs_count=6&disable_animations=true&theme=transparent)
+
+
 
 ## Community Engagement & Volunteer Work
 
@@ -91,5 +95,11 @@ Here are some ideas to get you started:
 ## Hear Me
 An interview from bootcamp.
 <a href="https://soundcloud.com/nashville-software-school/chris-jarvis">Listen to my graduation interview</a>
+
+grade version 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ClJarvis)](https://github.com/stats-organization/github-stats-extended)
+
+early lanuage version
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=CLJarvis&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
