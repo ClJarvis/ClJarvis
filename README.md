@@ -1,6 +1,6 @@
 ### Hello there, I'm Chris Jarvis
 
-I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love of creative endeavors & solving puzzles led me to delve into software development.  My organized demeanor and my tenacious determination in solving problems is a unique asset to a development team.
+I'm a software developer, puzzle solver, and a LEGo fan.  A love of creative endeavors & solving puzzles led me to delve into software development.  My demeanor and my determination in solving problems is a unique asset to a development team.
 
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/20m07vdw87mvfsonfa1c.jpg" alt="text of contact information.">
 
@@ -8,13 +8,13 @@ I'm a software developer, puzzle solver, and a Full Stack storyteller,  A love o
 
 ### CSS Art
 
-Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and movie character. Read about it on my <a href="https://dev.to/jarvisscript" Target="blamk" rel="noreferrer"> DEV Blog</a>
+Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters featuring comic boom and movie character. Read about it on my <a href="https://dev.to/jarvisscript" Target="blamk" rel="noreferrer"> DEV Blog</a>
 
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o324motpbz7dpsdyfym9.jpg" alt="five crewmeembers from amoung us game">
 
 ### EdTech
 
- Here's a recent project I made to help elementry school students practice logging into an online application. Once they have logged in thay can get a inspiational quote about the important of reading. I made a Python and flask version then remade it with vanilla JavaScript.
+ Here's a project I made to help elementry school students practice logging into an online application. Once they have logged in thay can get a inspiational quote about the important of reading. I made a Python and flask version then remade it with vanilla JavaScript.
  
 
  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hmyjkkzurg8qezre7c8l.jpg">
@@ -38,11 +38,13 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters and
 ### DEV
 - Trusted User (moderator)
 - Blog Writer
+- Top Weekly post under the #discuss tag. 3/2026
 - Winner June Frontend Challenge - CSS Art 7/2025
 - Top CSS author of of the week 6/2025
 - Top JavaScript author of the week 6/2025
 - Top 7 Featured DEV Posts of the Week 11/2024
 - Top 7 Featured DEV Posts of the Week 12/2023
+
   
 ### Virtual Coffee
 - Member
