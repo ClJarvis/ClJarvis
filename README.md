@@ -1,6 +1,6 @@
 ### Hello there, I'm Chris Jarvis
 
-I'm a software developer, puzzle solver, and a LEGo fan.  A love of creative endeavors & solving puzzles led me to delve into software development.  My demeanor and my determination in solving problems is a unique asset to a development team.
+I'm a software developer, puzzle solver, and a LEGO fan.  A love of creative endeavors & solving puzzles led me to delve into software development.  My demeanor and my determination in solving problems is a unique asset to a development team.
 
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/20m07vdw87mvfsonfa1c.jpg" alt="text of contact information.">
 
