@@ -71,7 +71,7 @@ Some art work I made with CSS and HTML. I have a series of CSS ugly sweaters fea
  Pronouns: He\Him 
 
  
- 
+ [![An image of @jarvisscript's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jarvisscript)](https://holopin.io/@jarvisscript)
 
  ```
 $JarvisScript git push
